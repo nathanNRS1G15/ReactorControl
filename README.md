@@ -1,2 +1,2 @@
 # ReactorControl
-Fusion reactor control for Nuclearcraft mod
+In progress automated fusion reactor control for Nuclearcraft mod
